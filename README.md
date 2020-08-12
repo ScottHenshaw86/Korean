@@ -5,8 +5,12 @@ A full-featured site for learning the Korean language (still under development) 
 * A photo upload component for users to upload profile pictures.
 
 ## Demo
-Live site coming soon! Check out this demo in the meantime.
-<kbd><img src="/demo/rawKoreanDemo.gif" /></kbd>
+Live site coming soon! Check out these demos in the meantime.
+Entertainment Page with Twitter timeline.
+<kbd><img src="/demo/rawKoreanEntertainmentDemo.gif" /></kbd>
+
+Grammar Sentence Game
+<kbd><img src="/demo/rawKoreanGameDemo.gif" /></kbd>
 
 ## Technologies Used
 * CSS
