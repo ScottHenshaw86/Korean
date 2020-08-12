@@ -1,5 +1,5 @@
 # Raw Korean
-A full-featured site for learning the Korean language (still under development) and finding real-life Korean tutors. The portions of the site that I contributed to include: 
+A full-featured site for learning the Korean language and connecting with real-life Korean tutors (still under development) . The portions of the site that I contributed to include: 
 * An entertainment section with K-Pop, movie, and music related articlesthat users can comment on. 
 * A grammar sentence game that requires users to drag words and phrases and drop them in the correct order. 
 * A photo upload component for users to upload profile pictures.
