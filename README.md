@@ -6,10 +6,10 @@ A full-featured site for learning the Korean language (still under development) 
 
 ## Demo
 Live site coming soon! Check out these demos in the meantime.\
-Entertainment Page with Twitter timeline.
+**Entertainment Page with Twitter timeline.**
 <kbd><img src="/demo/rawKoreanEntertainmentDemo.gif" /></kbd>
 
-Grammar Sentence Game
+**Grammar Sentence Game**
 <kbd><img src="/demo/rawKoreanGameDemo.gif" /></kbd>
 
 ## Technologies Used
