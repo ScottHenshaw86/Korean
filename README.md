@@ -1,8 +1,8 @@
 # Raw Korean
 A full-featured site for learning the Korean language and connecting with real-life Korean tutors (still under development) . The portions of the site that I contributed to include: 
-* An entertainment section with K-Pop, movie, and music related articlesthat users can comment on. 
-* A grammar sentence game that requires users to drag words and phrases and drop them in the correct order. 
-* A photo upload component for users to upload profile pictures.
+* A filterable entertainment section with K-Pop, movie, and music related articles that users can comment on. Articles and comments are retrieved from a database.
+* A grammar sentence game that requires users to drag words and phrases and drop them in the correct order. Sentences are randomly chosen from the database, chopped up into smaller words and phrases, and shuffled.
+* A photo upload component for users to upload profile pictures. PHP is used to check the files and add them to the user's folder in the server's filesystem. A link to the image file is then added to the database.
 
 ## Demo
 Live site coming soon! Check out these demos in the meantime.\
