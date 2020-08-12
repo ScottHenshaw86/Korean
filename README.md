@@ -5,7 +5,7 @@ A full-featured site for learning the Korean language (still under development) 
 * A photo upload component for users to upload profile pictures.
 
 ## Demo
-Live site coming soon! Check out these demos in the meantime.
+Live site coming soon! Check out these demos in the meantime.\
 Entertainment Page with Twitter timeline.
 <kbd><img src="/demo/rawKoreanEntertainmentDemo.gif" /></kbd>
 
